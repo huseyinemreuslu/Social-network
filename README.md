@@ -1,4 +1,4 @@
-# project
+# Social Network
 Social network project as like as basic facebook.
 Created with Java.
 
